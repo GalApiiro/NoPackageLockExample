@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "kind-of": "6.0.2",
+    "minimist": "0.2.0",
+    "qs": "^6.10.1",
+    "dummy-package": "1.2.3",
+    "another-dummy-package": "^2.3.4" 
+  }
+}
